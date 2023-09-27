@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-19T13:39:21 IST" name="Default suite" finished-at="2023-09-19T13:39:31 IST" duration-ms="10569">
+    <groups>
+    </groups>
+    <test started-at="2023-09-19T13:39:21 IST" name="Default test" finished-at="2023-09-19T13:39:31 IST" duration-ms="10569">
+      <class name="TestRunner.TC_PatientPage_01">
+        <test-method is-config="true" signature="tearUp()[pri:0, instance:TestRunner.TC_PatientPage_01@7b98f307]" started-at="2023-09-19T13:39:21 IST" name="tearUp" finished-at="2023-09-19T13:39:26 IST" duration-ms="4853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearUp -->
+        <test-method signature="verifyContentPagination()[pri:0, instance:TestRunner.TC_PatientPage_01@7b98f307]" started-at="2023-09-19T13:39:26 IST" name="verifyContentPagination" finished-at="2023-09-19T13:39:31 IST" duration-ms="5642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContentPagination -->
+      </class> <!-- TestRunner.TC_PatientPage_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
